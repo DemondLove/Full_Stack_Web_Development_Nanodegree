@@ -4,7 +4,7 @@ Learn to design and develop powerful modern web applications that form the found
 
 ## SQL and Data Modeling for the Web
 
-In this part, you’ll be building out the data models and database for an artist/venue booking application. The fictitious startup Fy-yur is building a website that facilitates bookings between artists who can play at venues, and venues who want to book artists.
+In this part, you’ll be building out the data models and database for an artist/venue booking application. The fictitious startup Fyyur is building a website that facilitates bookings between artists who can play at venues, and venues who want to book artists.
  - Project: Fyyur: Artist Booking Site
 
 ## API Development and Documentation
@@ -25,3 +25,5 @@ In this part, you will create a container for your Flask web app using Docker an
  ## Capstone Project
  
  You will now combine all of the new skills you’ve learned and developed in this course to construct a database-backed web API with user access control. You will choose what app to build and then you’ll design and build out all of the API endpoints needed for the application and properly secure them for use in any front end application (web or mobile).
+
+ - Project: Capstone Project
